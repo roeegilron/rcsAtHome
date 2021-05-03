@@ -1,9 +1,5 @@
-# Function to recreate figures for: XXX (include link on publication) 
+# Long-term wireless streaming of neural recordings for circuit discovery and adaptive stimulation in individuals with Parkinson’s disease
 
-The analyis code used to produce the figures in the paper. 
+This is analyis code used to produce the figures in the [paper](https://www.nature.com/articles/s41587-021-00897-5).
 
-Running MAIN.m will reproduce the figures in the paper. 
-
-For information on how to open RC+S files see here: 
-https://github.com/openmind-consortium/Analysis-rcs-data
-
+`MAIN.m` has a guide to reproducing the figures in the paper. 
